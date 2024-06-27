@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">MyFragmentApp</string>
+    <string name="btn_fragment" translatable="false">Show Fragment Activity</string>
+    <string name="btn_show_fragment" translatable="false">Show Simple Fragment</string>
+    <string name="btn_next_fragment" translatable="false">Next</string>
+</resources>
